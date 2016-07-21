@@ -1,0 +1,26 @@
+<!doctype HTML>
+<html>
+<title> EASY #1 </title>
+
+<head>
+
+
+</head>
+
+
+<body>
+
+<form name = "easy1" method = "post" action = "C:\Users\jjodavis\Desktop\Javascript\Easy1 Form.txt">
+Name: <input type = "textbox" name = "name" size = "10" maxlength = "30">
+Age:  <input type = "textbox" name = "age" size = "2" maxlength = "3">
+Zip:  <input type = "textbox" name = "zip" size = "5" maxlength = "6">
+
+<input type = "reset">
+<input type = "submit" value = "Done!">
+</form>
+
+
+
+</body>
+
+</html>
